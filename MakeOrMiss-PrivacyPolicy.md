@@ -1,7 +1,7 @@
 # Privacy Policy for MakeOrMiss
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 8/4/2025
+**Last Updated:** 8/4/2025
 
 ## Introduction
 
@@ -122,9 +122,7 @@ We may update this Privacy Policy periodically. We will notify users of signific
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** [Your Email Address]  
-**Website:** [Your Website URL]  
-**Address:** [Your Business Address]
+**Email:** robertmc@gmail.com  
 
 ## Legal Compliance
 
@@ -140,5 +138,5 @@ By downloading and using MakeOrMiss, you acknowledge that you have read and unde
 
 ---
 
-**Last Updated:** [Insert Date]  
+**Last Updated:** 8/4/2025 
 **Version:** 1.0
